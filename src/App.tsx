@@ -165,7 +165,7 @@ function EnhancedCTFEventSite() {
             H4CK3R_CTF 2024
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl mb-8 text-green-300">
-            Ready to Hack, Capture the FLag!!
+            Ready to Hack, Capture the Flag!!
           </p>
           <p className="text-lg md:text-xl lg:text-1xl mb-5 text-blue-200">
             <a href="https://thefossclub.github.io/">
@@ -180,7 +180,7 @@ function EnhancedCTFEventSite() {
           </Link>
         </section>
 
-        <section className="countdown bg-black bg-opacity-80 py-12">
+        <section className="countdown py-12">
           <div className="container mx-auto px-4">
             <h2
               className="text-2xl md:text-3xl font-bold text-center mb-8 glitch"
@@ -219,7 +219,7 @@ function EnhancedCTFEventSite() {
           </p>
         </section>
 
-        <section id="categories" className="bg-black bg-opacity-80 py-20">
+        <section id="categories" className=" py-20">
           <div className="container mx-auto px-4">
             <h2
               className="text-2xl md:text-3xl font-bold mb-12 text-center glitch"
