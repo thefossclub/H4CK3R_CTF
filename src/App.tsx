@@ -122,7 +122,7 @@ function EnhancedCTFEventSite() {
             Test your skills. Claim your flags. Become the elite.
           </p>
           <p className="text-lg md:text-xl lg:text-1xl mb-5 text-blue-200">
-            <a href="thefossclub.github.io">Powered by The FOSS Club</a>
+            <a href="https://thefossclub.github.io/">Powered by The FOSS Club</a>
           </p>
           <Link to="/register" className="bg-green-600 text-black text-base md:text-lg px-6 md:px-8 py-2 md:py-3 rounded-lg hover:bg-green-500 transition-colors inline-block">
             Join the Challenge
@@ -146,7 +146,7 @@ function EnhancedCTFEventSite() {
         <section id="about" className="container mx-auto px-4 py-20">
           <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center glitch" data-text="About the Event">About the Event</h2>
           <p className="text-base md:text-lg max-w-3xl mx-auto text-center text-green-300">
-            H4CK3R_CTF is a the ultimate CTF playground for cybersecurity enthusiasts and aspiring hackers. 
+            H4CK3R_CTF is the ultimate CTF playground for cybersecurity enthusiasts and aspiring hackers. 
             Our challenges will push your limits, test your creativity, and sharpen your hacking skills. 
             Are you ready to join the elite?
           </p>

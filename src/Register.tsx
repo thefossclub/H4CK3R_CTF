@@ -21,7 +21,7 @@ export default function Register() {
     e.preventDefault();
     // Here you would typically send the form data to your backend
     console.log('Form submitted:', formData);
-    // Add your registration logic here
+    // Registartion logic to be added here
   };
 
   return (

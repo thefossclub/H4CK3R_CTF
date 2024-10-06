@@ -13,7 +13,6 @@ root.render(
   </React.StrictMode>
 );
 
-// Add custom cursor logic
 document.addEventListener('mousemove', (e) => {
   const cursor = document.getElementById('custom-cursor');
   if (cursor) {
