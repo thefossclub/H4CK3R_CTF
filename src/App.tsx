@@ -13,7 +13,7 @@ function EnhancedCTFEventSite() {
 
   useEffect(() => {
     const timer = setInterval(() => {
-      const eventDate = new Date('2024-12-31T23:59:59').getTime()
+      const eventDate = new Date('2024-10-24T23:59:59').getTime()
       const now = new Date().getTime()
       const difference = eventDate - now
 
