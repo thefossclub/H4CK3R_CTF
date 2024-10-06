@@ -121,6 +121,9 @@ function EnhancedCTFEventSite() {
           <p className="text-lg md:text-xl lg:text-2xl mb-8 text-green-300">
             Test your skills. Claim your flags. Become the elite.
           </p>
+          <p className="text-lg md:text-xl lg:text-1xl mb-5 text-blue-200">
+            <a href="thefossclub.github.io">Powered by The FOSS Club</a>
+          </p>
           <Link to="/register" className="bg-green-600 text-black text-base md:text-lg px-6 md:px-8 py-2 md:py-3 rounded-lg hover:bg-green-500 transition-colors inline-block">
             Join the Challenge
           </Link>
@@ -143,7 +146,7 @@ function EnhancedCTFEventSite() {
         <section id="about" className="container mx-auto px-4 py-20">
           <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center glitch" data-text="About the Event">About the Event</h2>
           <p className="text-base md:text-lg max-w-3xl mx-auto text-center text-green-300">
-            H4CK3R_CTF is the ultimate playground for cybersecurity enthusiasts and aspiring hackers. 
+            H4CK3R_CTF is a the ultimate CTF playground for cybersecurity enthusiasts and aspiring hackers. 
             Our challenges will push your limits, test your creativity, and sharpen your hacking skills. 
             Are you ready to join the elite?
           </p>
@@ -209,7 +212,7 @@ function EnhancedCTFEventSite() {
 
       <footer className="bg-black bg-opacity-80 py-8 relative z-10">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-sm md:text-base">&copy; 2024 H4CK3R_CTF. All rights reserved.</p>
+          <p className="text-sm md:text-base">&copy; 2024 H4CK3R_CTF. The FOSS Club. All rights reserved.</p>
           <div className="mt-4">
             <a href="#" className="text-green-300 hover:text-green-100 mx-2 transition-colors text-sm md:text-base">Privacy Policy</a>
             <a href="#" className="text-green-300 hover:text-green-100 mx-2 transition-colors text-sm md:text-base">Terms of Service</a>
@@ -330,7 +333,7 @@ function Register() {
 
       <footer className="bg-black bg-opacity-80 py-4">
         <div className="container mx-auto px-4 text-center text-sm">
-          &copy; 2024 H4CK3R_CTF. All rights reserved.
+          &copy; 2024 H4CK3R_CTF. The FOSS Club . All rights reserved. 
         </div>
       </footer>
     </div>
