@@ -192,7 +192,7 @@ function EnhancedCTFEventSite() {
               {Object.entries(timeLeft).map(([unit, value]) => (
                 <div
                   key={unit}
-                  className="bg-gray-900 p-4 rounded-lg border border-green-600"
+                  className="bg-black bg-opacity-80 p-4 rounded-lg border border-green-600"
                 >
                   <span className="text-3xl md:text-4xl font-bold block mb-2">
                     {value}
